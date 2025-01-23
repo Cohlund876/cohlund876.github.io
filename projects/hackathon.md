@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/hackathon.png
+image: img/hackathon/hackathon.png
 title: "Hackathon"
 date: 2022
 published: true
