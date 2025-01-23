@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/poker/poker.jpg
+image: img/poker/poker.jpeg
 title: "Five Card Draw"
 date: 2019
 published: true
