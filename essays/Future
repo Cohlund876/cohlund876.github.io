@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Future Plans in Programming"
+title: "A cautious optimism"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
 published: true
@@ -11,39 +11,17 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+  I've never not been into technology. Some of my earliest memories consist of me playing games on my family computer before i even knew what the letters on the keyboard meant, and as I have grown I have only become more interested in the technology around me, but in that time I have also seen more and more that there are more risks then I knew popping up as we progress ever forward.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+While I feel that technology has unequivocally done more good than harm for humanity in the past 20 years, allowing for amazing advancements in medicine and communication that would have been thought impossible just 100 years ago, I also cannot deny that I've seen people who lives have been ruined because the reach of technology has been left unchecked in recent years. I believe that it is the responsibilty of those who develop this technology to make sure that this is avoided in the future, or all the benefits that we've seen in recent decades may end up paling in comparison to the harms.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## On the Individual
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+While Social Media certainly allows for unparralled access to communication for people of all ages, it has also served to greatly harm young people, specifically teenagers. I've seen personally, and many study have shown that prolific use of social media correlates very strongly with the development of mental illness in teens and young adults. If we want this extremely powerful tool to help solve lonliness instead of causing it, we have to push for reform that doesn't pray on the fragile psychology of young children in order to create addicts.
 
-Here's what I think: the difficult things will always be difficult.
+## On Society
+The biggest point of conversation in the computer world right now is Generative AI, and rightly so. It has huge practical applications in almost every field, of which medicine and communication seem the most impactful to me. But while there are many reasons to be excited about its use, i fell the excitment for its possibilties have left us under representing the cost. According to the Washington Post, it takes approximately one bottle of water to write a 100 word email using chatGPT, and while they may not seem like a large amount, the sheer volume of queries entered into it results in a gigantic toll on the amount of water we
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
 
 ## Okay!
 
