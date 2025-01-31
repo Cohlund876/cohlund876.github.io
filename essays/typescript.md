@@ -9,7 +9,7 @@ labels:
   - Programming
   - Ethics
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/typescript.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/Typescript.png">
 
 As someone who had little experience with javascript and almost no experience with Typsescript, I have come to enjoy it in the brief time that i have used it thus far. Coming from C and C++, Typescript is much more intuitive and i find myself at a loss for what my mistake might have been considerably less often then in did when i was utilizing C. Typescript playground is also a nice tool to have for a language. It is very convinient to have a browser based editor and compilor that error checks in real time. It makes it so i don't have to compile and fix and compile and fix a bunch of times in a row in order to find a problem with any code that i have written. 
 
