@@ -12,7 +12,7 @@ labels:
 Coding is, generally speaking, about as granular of an activity as one can partake in, as so because of that, trying to learn about different aspects of it can be extremely intimidating. Not only beacause the concepts themselves can be extremely challenging, but also because a lot of the time they require some prexisting knowledge in order to be implemented effectively. And so, a lot of times the best way to solve a problem you might be having is to ask someone who knows more than you for some help in explaing how to do something or why something behaves the way it does. In that, however, lies a problem, as you dont want to waste either you time or those who are helping you's time. The solution to that problem is to ask questions the "smart way"
 
 
-## What is a "smart question"
+## What is a "smart question"?
 
 
 A smart question, according to the essay, is one that is clear, well-researched, and respectful, allowing the person being asked to provide an informed and helpful response. It demonstrates that the asker has made an effort to understand the problem and explored possible solutions before seeking help. This includes providing relevant details, stating the issue clearly, and asking for specific guidance rather than a vague answer. A smart question shows the asker’s consideration for the responder's time and expertise.
