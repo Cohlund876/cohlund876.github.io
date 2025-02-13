@@ -10,7 +10,7 @@ labels:
   - Standards
   - Readability
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/standards.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/standards.jpg">
 
 
 I belive that coding standards, like any other writing standard, overall serve to improve the readability of something quite substantially. Not only that, I think that after the intial shock of first applying these standards has subsided, it will then actually result in an increase to the speed and productivity of the coder as well. My first week utilizing EsLint has only reaffirmed my feelings on this point.
