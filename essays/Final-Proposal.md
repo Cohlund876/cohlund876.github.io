@@ -9,7 +9,7 @@ labels:
   - NextJs
   - AI
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/schedule.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/Schedule.png">
 
 ## The Problem
 Every semester, students face the challenge of planning their academic schedules under tight constraints. Course availability is often limited, with only a few seats offered relative to student demand. On top of that, students must navigate personal time constraints, work schedules, extracurricular commitments, and the need to meet major or graduation requirements.
