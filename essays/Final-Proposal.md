@@ -98,4 +98,4 @@ Future improvements and features could include:
 * Integrated course reviews and ratings: Students can view professor ratings and feedback  
 
 ## Conclusion
-while Learning a UI framework like Bootstrap 5 might require an initial investment of time, the benefits far outweigh those intial setbacks. Using the capabilities of these tools can drastically increase your efficacy in terms of webpage production. The benefits just far outweigh the downsides, simple as that.
+While Learning a UI framework like Bootstrap 5 might require an initial investment of time, the benefits far outweigh those intial setbacks. Using the capabilities of these tools can drastically increase your efficacy in terms of webpage production. The benefits just far outweigh the downsides, simple as that.
