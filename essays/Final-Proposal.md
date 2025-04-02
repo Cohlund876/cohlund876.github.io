@@ -9,6 +9,8 @@ labels:
   - NextJs
   - AI
 ---
+### Proposers:  Alexander Edwards, Colin Ohlund, Yongsheng He
+
 <img width="500px" class="rounded float-start pe-4" src="../img/Schedule.jpg">
 
 ## The Problem
