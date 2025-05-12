@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "AI Response"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2025-05-11
+published: true
 labels:
   - AI
   - Ontology
