@@ -1,7 +1,5 @@
 ---
 layout: essay
-type---
-layout: essay
 type: essay
 title: "Final Reflections"
 # All dates must be YYYY-MM-DD format!
