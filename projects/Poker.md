@@ -11,4 +11,18 @@ labels:
 summary: "Developed a Playable version of Five Card Draw which allowed people to bet."
 ---
 
-Developed as the final project for one of my high school programming classes, this game allowed you to play 5 card draw video poker, either against no one, such as in most video poker machine you can find today, or against 1-3 Computer controlled opponents. Each individual opponent could be set to one of 3 difficulties, easy, which only kept pairs in its hand and shuffled back everything else, as well as never betting. Medium, which was more complex and bet when it had a strong hand, and hard, which played advanced poker using a Game Theory Optimizer. The Program kept track of your winnings/losses in between sessions and can keep track of multiple different profiles. The game also featured a short tutorial that explains the basic rules of poker, as well a a tool to tell you what you have and what the releative strength of that hand is.
+As the capstone project for one of my high school programming classes, I developed a fully functional video poker game based on 5-card draw. Designed with both casual and competitive modes in mind, the game allowed players to either play solo—similar to traditional video poker machines—or compete against up to three computer-controlled opponents.
+
+Each opponent could be individually configured to one of three difficulty levels:
+
+Easy: Played conservatively, only keeping pairs and folding otherwise, without placing bets.
+
+Medium: Featured a more strategic approach, betting when holding a strong hand.
+
+Hard: Used advanced game theory principles, employing a Game Theory Optimizer to mimic real-world poker strategies.
+
+The program also included a persistent profile system that tracked player statistics, winnings, and losses across multiple sessions and supported multiple user profiles. To make the game accessible to beginners, I incorporated a short tutorial covering the rules of poker, along with a built-in hand evaluator tool that identified the player's current hand and its relative strength.
+
+This project not only allowed me to practice object-oriented programming and basic AI behavior but also challenged me to think critically about user experience, interface design, and long-term data management.
+
+(This writing was checked and revised by ChatGP)
