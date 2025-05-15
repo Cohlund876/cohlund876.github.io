@@ -1,19 +1,48 @@
 ---
 layout: project
 type: project
-image: img/OotM/odd.jpeg
-title: "Odyssey of the Mind"
-date: 2016-20
+image: img/ma.png
+title: "Manoa's got Music"
+date: 2025
 published: true
 labels:
   - Problem Solving
   - Critical Thinking
-  - Arduino
-summary: "Participated in The Odyssey of the Mind Event for 4 years, going to states every year."
+  - Teamwork
+summary: "Developed a website that allows like-minded students to share their interests in Music."
 ---
 
-Odyssey of the Mind is an international educational program that fosters creativity and critical thinking in students. Teams of students, typically from elementary to college level, work together to solve open-ended problems that require them to think outside the box. These problems often involve elements of science, technology, engineering, art, and performance.
+Overview:
+Manoa’s Got Music is a web application designed to connect musically inclined students at the University of Hawaiʻi. The goal was to address a common issue: although many students have musical talent, they often lack a convenient way to find others with similar tastes and compatible skill levels for collaboration or jam sessions.
 
-Through this collaborative process, students develop essential skills such as teamwork, problem-solving, communication, and presentation. They learn to embrace challenges, experiment with different approaches, and persevere through setbacks. Odyssey of the Mind encourages innovation and originality, empowering students to become creative problem-solvers and lifelong learners.
+My Role:
+As a core developer on the team, I contributed to both the frontend and backend, helped implement user profile and filtering features, and participated in UI/UX refinement based on community feedback.
 
-My Team went to states all four years, doing a variety of different challenges. One of the Challenges we participated in rquired us to use an arduino to articulate a robot in time with a skit, and to be in precise time with everyone involved.
+Key Features:
+
+🎵 Create musical profiles including genres, instruments, and goals
+
+
+🔍 Browse and filter other musicians by interests and availability
+
+📬 Contact users to organize jam sessions and potential collaborations
+
+Technologies Used:
+
+Next.js & TypeScript – Full-stack framework for dynamic routing and performance
+
+React & React Bootstrap – UI component libraries for clean and responsive design
+
+React Hook Form – Form handling with validation
+
+Prisma ORM – Type-safe database interactions with PostgreSQL
+
+Vercel – Cloud deployment with CI integration
+
+Project Impact:
+This project fostered creativity and community within the UH music scene, offering students an accessible way to meet like-minded peers, explore new genres, and build musical connections. Beyond the technical implementation, we engaged in community testing with real users, gathering feedback that led to key improvements like better mobile responsiveness and future plans for in-app messaging and a public events calendar.
+
+What I Learned:
+This experience was a deep dive into collaborative full-stack development and reinforced the importance of issue-driven project management (IDPM), iterative testing, and designing for real users. I also gained practical experience in database design, deployment pipelines, and handling feedback loops to improve product quality over time.
+
+This Project page for the website can be found at: https://manoas-got-music.github.io/
